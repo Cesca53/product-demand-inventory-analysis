@@ -30,12 +30,12 @@ The main objectives of this analysis were to:
 📊 Key Performance Indicators
 
 KPI| Result
-Total Order Demand| ~2B
-Total Order Value| ~14.93M
-Total Orders| ~46K
-Average Order Demand| ~36.66K
-Average Order Value| ~326.15
-Demand Change| -37.67%
+Total Order Demand ~2B
+Total Order Value ~14.93M
+Total Orders ~46K
+Average Order Demand ~36.66K
+Average Order Value ~326.15
+Demand Change -37.67%
 
 🔍 Key Insights
 
@@ -52,7 +52,7 @@ Demand Change| -37.67%
 
 - Monitor products with high demand but relatively low revenue to understand their pricing and profitability.
 - Review warehouse performance regularly to identify operational differences between locations.
-- Use demand trends to improve inventory planning and reduce the risk of overstocking or stockouts.
+- Use demand trends to improve inventory planning and reduce the risk of overstocking.
 - Investigate the factors contributing to the 37.67% decline in demand.
 - Focus inventory planning on products and periods with consistently high demand.
 - Use category and warehouse performance insights to support resource allocation and operational planning.
