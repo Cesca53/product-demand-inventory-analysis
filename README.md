@@ -6,6 +6,12 @@ This project analyzes product demand, order value, sales activity, and warehouse
 
 The analysis was developed using Power BI, with data preparation and transformation performed before building an interactive dashboard.
 
+## Dashboard Preview
+
+![Executive-overview](./Executive-Overview.jpg)
+![Demand-analysis](./Demand-analysis.jpg)
+![Business-insights](Business-insights.jpg)
+
 🎯 Business Objectives
 
 The main objectives of this analysis were to:
@@ -30,7 +36,7 @@ The main objectives of this analysis were to:
 📊 Key Performance Indicators
 
 KPI| Result
-Total Order Demand ~2B
+Total Order Demand ~1.68B
 Total Order Value ~14.93M
 Total Orders ~46K
 Average Order Demand ~36.66K
@@ -39,7 +45,7 @@ Demand Change -37.67%
 
 🔍 Key Insights
 
-- Total order demand was approximately 2 billion, indicating a high volume of product demand across the analyzed data.
+- Total order demand was approximately 1.68 billion, indicating a high volume of product demand across the analyzed data.
 - Total order value was approximately 14.93 million.
 - The dataset contained approximately 46,000 orders.
 - Average order demand was approximately 36.66K.
