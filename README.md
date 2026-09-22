@@ -8,9 +8,14 @@ The analysis was developed using Power BI, with data preparation and transformat
 
 ## Dashboard Preview
 
-![Executive-overview](./Executive-Overview.jpg)
-![Demand-analysis](./Demand-analysis.jpg)
-![Business-insights](Business-insights.jpg)
+### Executive Overview
+![Executive Overview](Executive-Overview.jpg)
+
+### Demand Analysis
+![Demand Analysis](Demand-Analysis.jpg)
+
+### Business Insights
+![Business Insights](Business-Insights.jpg)
 
 🎯 Business Objectives
 
