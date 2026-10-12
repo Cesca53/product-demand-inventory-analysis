@@ -1,4 +1,4 @@
-Product Demand & Inventory Analysis
+**Product Demand & Inventory Analysis**
 
 📌 **Project Overview**
 
