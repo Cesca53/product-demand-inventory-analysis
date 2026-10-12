@@ -75,7 +75,7 @@ Data source and initial data preparation
 
 </aside>
 
-📊 Key Performance Indicators
+📊 **Key Performance Indicators**
 
 KPI Result
 Total Order Demand ~1.68B
@@ -85,7 +85,7 @@ Average Order Demand ~36.66K
 Average Order Value ~326.15
 Demand Change -37.67%
 
-🔍 Key Insights
+🔍 **Key Insights**
 
 - Total order demand was approximately 1.68 billion, indicating a high volume of product demand across the analyzed data.
 - Total order value was approximately 14.93 million.
@@ -96,7 +96,7 @@ Demand Change -37.67%
 - Warehouse performance varied across locations, with some warehouses generating higher revenue despite not having the highest order demand.
 - The analysis also identified products with relatively high demand but lower revenue contribution, highlighting areas that may require further investigation.
 
-💡 Business Recommendations
+💡 **Business Recommendations**
 
 1. **Investigate the decline in demand.** The 37.67% decline from 2018 to 2019 should be investigated to identify underlying causes such as changes in customer behavior, product performance, pricing or market conditions.
 2. **Prioritize high-demand products.** Maintain adequate inventory levels for TBOX to reduce the risk of stockouts and ensure continued availability.
@@ -104,7 +104,7 @@ Demand Change -37.67%
 4. **Optimize warehouse performance.** Evaluate warehouses on both demand and revenue, not demand volume alone, and use those metrics to improve inventory allocation and operational efficiency.
 5. **Monitor demand trends regularly.** Use the Power BI dashboard to continuously monitor demand, revenue, orders, products and warehouses so that changes are identified and addressed quickly.
 
-📈 Dashboard
+📈 **Dashboard**
 
 The Power BI dashboard provides an interactive view of:
 
@@ -115,7 +115,7 @@ The Power BI dashboard provides an interactive view of:
 - Demand Trends
 - Ordering Patterns
 
-📁 Project Files
+📁 **Project Files**
 
 Additional project files, dashboard screenshots, and supporting analysis will be added to this repository.
 
